@@ -1,1 +1,6 @@
 Kunernates Best LInk to install https://www.assistanz.com/steps-to-install-kubernetes-cluster-manually-using-centos-7/
+
+install Apt-get 
+
+https://everyday-tech.com/apt-get-on-centos/
+
